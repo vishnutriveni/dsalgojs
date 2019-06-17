@@ -1,3 +1,3 @@
 import './index.scss';
-
-console.log('Boilerplate is working!');
+import example from './datastructures/strings/check_permutations';
+import removeDuplicates from './datastructures/linkedlists/remove_duplicates';
