@@ -47,5 +47,5 @@ const checkPermutation = (string1, string2) => {
   return false;
 };
 
-console.log(checkPermutation("english", "shilneg"))
-// abc --- cba -> true
+checkPermutation("english", "shilneg");
+// english --- shilneg -> true
